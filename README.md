@@ -42,7 +42,7 @@ Will generate a [GraphViz DOT](http://www.graphviz.org/) graph and its related P
 Sample map generated for elementary paragraph on Photosynthesis
 
 <div align="center">
-  <img src="img/out.png"><br><br>
+  <img src="https://github.com/sudhanshusks/concept_map/blob/master/sample/out.png"><br><br>
 </div>
 
 
